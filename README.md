@@ -52,8 +52,7 @@ Sales-Performance-Analysis-PowerBI
 
 ## 🧪 How to Use
 1. Download this repo and **add your PBIX** at the root.
-2. (Optional) Put datasets into `/data`.
-3. Open in **Power BI Desktop** and explore with slicers.
+2. Open in **Power BI Desktop** and explore with slicers.
 
 ## 📝 Case Study (Short)
 **Questions:** Which products/categories drive revenue? Where are geographic hotspots? How do monthly and hourly patterns vary?  
