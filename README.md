@@ -16,10 +16,12 @@ A premium portfolio project analyzing US sales (2019) using **Microsoft Power BI
 
 ## 🖼️ Dashboard Preview
 **Full Dashboard:**  
-<img src="./assets/dashboard.jpg" width="900"/>
+<img src="./assets/data_view.jpg" width="900"/>
+
 
 **Data View (transformed table snapshot):**  
-<img src="./assets/data_view.jpg" width="900"/>
+<img src="./assets/dashboard.jpg" width="900"/>
+
 
 ## 🔍 Insights (Highlights)
 - Premium SKUs (e.g., MacBook, iPhone) drive the top-line.
